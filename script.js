@@ -24,7 +24,7 @@ function calcularIMC() {
         // Após o cálculo do IMC, mostramos o banner após 5 segundos
         setTimeout(function () {
             document.getElementById('banner-overlay').style.display = 'block';
-        }, 5000);
+        }, 3000);
     } else {
         alert('Por favor, insira valores válidos para altura e peso.');
     }
