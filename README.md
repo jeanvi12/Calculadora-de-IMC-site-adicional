@@ -1,5 +1,3 @@
-link da página: https://jeanvi12.github.io/atividade_final_frontend/
----
 
 # 📊 Calculadora de IMC - Landing Page
 
@@ -7,7 +5,7 @@ link da página: https://jeanvi12.github.io/atividade_final_frontend/
 
 Sistema web para cálculo do Índice de Massa Corporal (IMC) com landing page comercial integrada, desenvolvido durante o curso técnico da Proz Educação.
 
-🔗 **[Acesse o projeto online](https://jeanvi12.github.io/atividade_final_frontend/)**
+🔗 **link da página: https://jeanvi12.github.io/atividade_final_frontend/**
 
 ## 💻 Tecnologias Utilizadas
 
