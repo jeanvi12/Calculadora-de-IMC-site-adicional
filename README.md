@@ -1,11 +1,11 @@
-
+link da página: https://jeanvi12.github.io/atividade_final_frontend/
+---
 # 📊 Calculadora de IMC - Landing Page
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ0ZTNkMjJ2YmNuMGxvZzU2dGEzM3h1bGVhZjNqNGFsNjBtMzg2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif" width="400" alt="Calculadora de IMC">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5lenYwb3R2NGprbGVndGZpdjdoMWFhZjU3bHc5MWh5OXE4dHQzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlOHnTIv1mj2U/giphy.gif" width="400" alt="Calculadora de IMC">
 
 Sistema web para cálculo do Índice de Massa Corporal (IMC) com landing page comercial integrada, desenvolvido durante o curso técnico da Proz Educação.
 
-🔗 **link da página: https://jeanvi12.github.io/atividade_final_frontend/**
 
 ## 💻 Tecnologias Utilizadas
 
